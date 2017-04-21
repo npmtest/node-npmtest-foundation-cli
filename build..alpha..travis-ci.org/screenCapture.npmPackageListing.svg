@@ -1,0 +1,25 @@
+<svg height="350" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="350" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-21 15:11:41 +0000    32394 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 15:11:41 +0000     1641 bytes  bin/foundation.js</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 15:11:41 +0000     4250 bytes  lib/commands/blocks.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 15:11:41 +0000      621 bytes  lib/commands/build.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 15:11:41 +0000     3080 bytes  lib/commands/help.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 15:11:41 +0000     2100 bytes  lib/commands/kits.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 15:11:41 +0000     5643 bytes  lib/commands/new.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 15:11:41 +0000      411 bytes  lib/commands/update.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 15:11:41 +0000      584 bytes  lib/commands/watch.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 15:11:41 +0000      282 bytes  lib/index.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 15:11:41 +0000      835 bytes  lib/util/assert-installable-repo.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 15:11:41 +0000      803 bytes  lib/util/changeVersion.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 15:11:41 +0000      310 bytes  lib/util/copySettings.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 15:11:41 +0000      621 bytes  lib/util/fetch-url.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 15:11:41 +0000      210 bytes  lib/util/index.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 15:11:41 +0000     3660 bytes  lib/util/mascot.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 15:11:41 +0000     2111 bytes  lib/util/messages.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 15:11:41 +0000     1688 bytes  lib/util/questions.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-21 15:11:41 +0000     1140 bytes  package.json</tspan>
+<tspan x="10" y="330"> 19.  2017-04-21 15:11:41 +0000     2404 bytes  readme.md</tspan>
+</text>
+</svg>
